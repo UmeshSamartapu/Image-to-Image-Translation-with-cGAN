@@ -16,17 +16,17 @@ This is achieved using a Conditional Generative Adversarial Network (cGAN).
 - Visualizes intermediate training results.
 
 # Tools & Technologies
-- **Deep Learning: TensorFlow, Keras
+- **Deep Learning:** TensorFlow, Keras
 
-- **GAN Framework: Conditional GAN (cGAN)
+- **GAN Framework:** Conditional GAN (cGAN)
 
-- **Data Handling: NumPy, OpenCV
+- **Data Handling**: NumPy, OpenCV
 
-- **Visualization: Matplotlib
+- **Visualization:** Matplotlib
 
-- **Version Control: Git, GitHub
+- **Version Control:** Git, GitHub
 
-- **Training Progress: tqdm
+- **Training Progress:** tqdm
 
 # Project Structure "Code"
   
